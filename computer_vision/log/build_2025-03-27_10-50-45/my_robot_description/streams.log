@@ -1,0 +1,41 @@
+[0.569s] Invoking command in '/home/chrisrvt/projects/Implementation_of_Intelligent_Robotics/computer_vision/build/my_robot_description': PS1=(intelligent_robotics__venv) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/home/chrisrvt/projects/Implementation_of_Intelligent_Robotics/computer_vision/build/my_robot_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/chrisrvt/projects/Implementation_of_Intelligent_Robotics/computer_vision/install/my_robot_description/lib/python3.10/site-packages:${PYTHONPATH} VIRTUAL_ENV_PROMPT=(intelligent_robotics__venv) /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --uninstall --editable --build-directory /home/chrisrvt/projects/Implementation_of_Intelligent_Robotics/computer_vision/build/my_robot_description/build
+[0.766s] running develop
+[0.766s] /home/chrisrvt/.local/lib/python3.10/site-packages/setuptools/command/develop.py:42: EasyInstallDeprecationWarning: easy_install command is deprecated.
+[0.766s] !!
+[0.766s] 
+[0.766s]         ********************************************************************************
+[0.766s]         Please avoid running ``setup.py`` and ``easy_install``.
+[0.766s]         Instead, use pypa/build, pypa/installer or other
+[0.766s]         standards-based tools.
+[0.766s] 
+[0.766s]         See https://github.com/pypa/setuptools/issues/917 for details.
+[0.767s]         ********************************************************************************
+[0.767s] 
+[0.767s] !!
+[0.767s]   easy_install.initialize_options(self)
+[0.898s] Removing /home/chrisrvt/projects/Implementation_of_Intelligent_Robotics/computer_vision/install/my_robot_description/lib/python3.10/site-packages/my-robot-description.egg-link (link to .)
+[0.916s] Invoked command in '/home/chrisrvt/projects/Implementation_of_Intelligent_Robotics/computer_vision/build/my_robot_description' returned '0': PS1=(intelligent_robotics__venv) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/home/chrisrvt/projects/Implementation_of_Intelligent_Robotics/computer_vision/build/my_robot_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/chrisrvt/projects/Implementation_of_Intelligent_Robotics/computer_vision/install/my_robot_description/lib/python3.10/site-packages:${PYTHONPATH} VIRTUAL_ENV_PROMPT=(intelligent_robotics__venv) /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --uninstall --editable --build-directory /home/chrisrvt/projects/Implementation_of_Intelligent_Robotics/computer_vision/build/my_robot_description/build
+[0.917s] Invoking command in '/home/chrisrvt/projects/Implementation_of_Intelligent_Robotics/computer_vision/src/my_robot_description': PS1=(intelligent_robotics__venv) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/home/chrisrvt/projects/Implementation_of_Intelligent_Robotics/computer_vision/build/my_robot_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/chrisrvt/projects/Implementation_of_Intelligent_Robotics/computer_vision/install/my_robot_description/lib/python3.10/site-packages:${PYTHONPATH} VIRTUAL_ENV_PROMPT=(intelligent_robotics__venv) /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_robot_description build --build-base /home/chrisrvt/projects/Implementation_of_Intelligent_Robotics/computer_vision/build/my_robot_description/build install --record /home/chrisrvt/projects/Implementation_of_Intelligent_Robotics/computer_vision/build/my_robot_description/install.log --single-version-externally-managed install_data --force
+[1.074s] running egg_info
+[1.083s] writing ../../build/my_robot_description/my_robot_description.egg-info/PKG-INFO
+[1.083s] writing dependency_links to ../../build/my_robot_description/my_robot_description.egg-info/dependency_links.txt
+[1.083s] writing requirements to ../../build/my_robot_description/my_robot_description.egg-info/requires.txt
+[1.083s] writing top-level names to ../../build/my_robot_description/my_robot_description.egg-info/top_level.txt
+[1.102s] reading manifest file '../../build/my_robot_description/my_robot_description.egg-info/SOURCES.txt'
+[1.102s] writing manifest file '../../build/my_robot_description/my_robot_description.egg-info/SOURCES.txt'
+[1.103s] running build
+[1.103s] running build_py
+[1.103s] copying my_robot_description/__init__.py -> /home/chrisrvt/projects/Implementation_of_Intelligent_Robotics/computer_vision/build/my_robot_description/build/lib/my_robot_description
+[1.103s] running install
+[1.106s] running install_lib
+[1.116s] creating /home/chrisrvt/projects/Implementation_of_Intelligent_Robotics/computer_vision/install/my_robot_description/lib/python3.10/site-packages/my_robot_description
+[1.116s] copying /home/chrisrvt/projects/Implementation_of_Intelligent_Robotics/computer_vision/build/my_robot_description/build/lib/my_robot_description/__init__.py -> /home/chrisrvt/projects/Implementation_of_Intelligent_Robotics/computer_vision/install/my_robot_description/lib/python3.10/site-packages/my_robot_description
+[1.116s] byte-compiling /home/chrisrvt/projects/Implementation_of_Intelligent_Robotics/computer_vision/install/my_robot_description/lib/python3.10/site-packages/my_robot_description/__init__.py to __init__.cpython-310.pyc
+[1.116s] running install_data
+[1.116s] copying resource/my_robot_description -> /home/chrisrvt/projects/Implementation_of_Intelligent_Robotics/computer_vision/install/my_robot_description/share/ament_index/resource_index/packages
+[1.116s] copying package.xml -> /home/chrisrvt/projects/Implementation_of_Intelligent_Robotics/computer_vision/install/my_robot_description/share/my_robot_description
+[1.116s] running install_egg_info
+[1.126s] Copying ../../build/my_robot_description/my_robot_description.egg-info to /home/chrisrvt/projects/Implementation_of_Intelligent_Robotics/computer_vision/install/my_robot_description/lib/python3.10/site-packages/my_robot_description-0.0.0-py3.10.egg-info
+[1.126s] running install_scripts
+[1.214s] writing list of installed files to '/home/chrisrvt/projects/Implementation_of_Intelligent_Robotics/computer_vision/build/my_robot_description/install.log'
+[1.230s] Invoked command in '/home/chrisrvt/projects/Implementation_of_Intelligent_Robotics/computer_vision/src/my_robot_description' returned '0': PS1=(intelligent_robotics__venv) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/home/chrisrvt/projects/Implementation_of_Intelligent_Robotics/computer_vision/build/my_robot_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/chrisrvt/projects/Implementation_of_Intelligent_Robotics/computer_vision/install/my_robot_description/lib/python3.10/site-packages:${PYTHONPATH} VIRTUAL_ENV_PROMPT=(intelligent_robotics__venv) /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_robot_description build --build-base /home/chrisrvt/projects/Implementation_of_Intelligent_Robotics/computer_vision/build/my_robot_description/build install --record /home/chrisrvt/projects/Implementation_of_Intelligent_Robotics/computer_vision/build/my_robot_description/install.log --single-version-externally-managed install_data --force

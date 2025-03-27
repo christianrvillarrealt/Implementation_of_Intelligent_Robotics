@@ -1,0 +1,30 @@
+[0.546s] Invoking command in '/home/chrisrvt/projects/Implementation_of_Intelligent_Robotics/computer_vision/build/my_robot_description': PS1=(intelligent_robotics__venv) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/home/chrisrvt/projects/Implementation_of_Intelligent_Robotics/computer_vision/build/my_robot_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/chrisrvt/projects/Implementation_of_Intelligent_Robotics/computer_vision/install/my_robot_description/lib/python3.10/site-packages:${PYTHONPATH} VIRTUAL_ENV_PROMPT=(intelligent_robotics__venv) /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/chrisrvt/projects/Implementation_of_Intelligent_Robotics/computer_vision/build/my_robot_description/build --no-deps symlink_data --force
+[0.753s] running develop
+[0.761s] /home/chrisrvt/.local/lib/python3.10/site-packages/setuptools/command/develop.py:42: EasyInstallDeprecationWarning: easy_install command is deprecated.
+[0.761s] !!
+[0.761s] 
+[0.761s]         ********************************************************************************
+[0.761s]         Please avoid running ``setup.py`` and ``easy_install``.
+[0.761s]         Instead, use pypa/build, pypa/installer or other
+[0.761s]         standards-based tools.
+[0.761s] 
+[0.762s]         See https://github.com/pypa/setuptools/issues/917 for details.
+[0.762s]         ********************************************************************************
+[0.762s] 
+[0.762s] !!
+[0.762s]   easy_install.initialize_options(self)
+[0.893s] running egg_info
+[0.902s] writing my_robot_description.egg-info/PKG-INFO
+[0.902s] writing dependency_links to my_robot_description.egg-info/dependency_links.txt
+[0.902s] writing requirements to my_robot_description.egg-info/requires.txt
+[0.902s] writing top-level names to my_robot_description.egg-info/top_level.txt
+[0.925s] reading manifest file 'my_robot_description.egg-info/SOURCES.txt'
+[0.926s] writing manifest file 'my_robot_description.egg-info/SOURCES.txt'
+[0.963s] running build_ext
+[0.963s] Creating /home/chrisrvt/projects/Implementation_of_Intelligent_Robotics/computer_vision/install/my_robot_description/lib/python3.10/site-packages/my-robot-description.egg-link (link to .)
+[0.963s] 
+[0.963s] Installed /home/chrisrvt/projects/Implementation_of_Intelligent_Robotics/computer_vision/build/my_robot_description
+[0.963s] running symlink_data
+[0.964s] symbolically linking /home/chrisrvt/projects/Implementation_of_Intelligent_Robotics/computer_vision/build/my_robot_description/resource/my_robot_description -> /home/chrisrvt/projects/Implementation_of_Intelligent_Robotics/computer_vision/install/my_robot_description/share/ament_index/resource_index/packages
+[0.964s] symbolically linking /home/chrisrvt/projects/Implementation_of_Intelligent_Robotics/computer_vision/build/my_robot_description/package.xml -> /home/chrisrvt/projects/Implementation_of_Intelligent_Robotics/computer_vision/install/my_robot_description/share/my_robot_description
+[0.984s] Invoked command in '/home/chrisrvt/projects/Implementation_of_Intelligent_Robotics/computer_vision/build/my_robot_description' returned '0': PS1=(intelligent_robotics__venv) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/home/chrisrvt/projects/Implementation_of_Intelligent_Robotics/computer_vision/build/my_robot_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/chrisrvt/projects/Implementation_of_Intelligent_Robotics/computer_vision/install/my_robot_description/lib/python3.10/site-packages:${PYTHONPATH} VIRTUAL_ENV_PROMPT=(intelligent_robotics__venv) /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/chrisrvt/projects/Implementation_of_Intelligent_Robotics/computer_vision/build/my_robot_description/build --no-deps symlink_data --force

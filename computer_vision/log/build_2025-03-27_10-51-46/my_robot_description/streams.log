@@ -1,0 +1,22 @@
+[0.544s] Invoking command in '/home/chrisrvt/projects/Implementation_of_Intelligent_Robotics/computer_vision/src/my_robot_description': PS1=(intelligent_robotics__venv) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/home/chrisrvt/projects/Implementation_of_Intelligent_Robotics/computer_vision/build/my_robot_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/chrisrvt/projects/Implementation_of_Intelligent_Robotics/computer_vision/install/my_robot_description/lib/python3.10/site-packages:${PYTHONPATH} VIRTUAL_ENV_PROMPT=(intelligent_robotics__venv) /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_robot_description build --build-base /home/chrisrvt/projects/Implementation_of_Intelligent_Robotics/computer_vision/build/my_robot_description/build install --record /home/chrisrvt/projects/Implementation_of_Intelligent_Robotics/computer_vision/build/my_robot_description/install.log --single-version-externally-managed install_data
+[0.706s] running egg_info
+[0.715s] writing ../../build/my_robot_description/my_robot_description.egg-info/PKG-INFO
+[0.715s] writing dependency_links to ../../build/my_robot_description/my_robot_description.egg-info/dependency_links.txt
+[0.715s] writing requirements to ../../build/my_robot_description/my_robot_description.egg-info/requires.txt
+[0.715s] writing top-level names to ../../build/my_robot_description/my_robot_description.egg-info/top_level.txt
+[0.734s] reading manifest file '../../build/my_robot_description/my_robot_description.egg-info/SOURCES.txt'
+[0.735s] writing manifest file '../../build/my_robot_description/my_robot_description.egg-info/SOURCES.txt'
+[0.735s] running build
+[0.735s] running build_py
+[0.735s] copying my_robot_description/__init__.py -> /home/chrisrvt/projects/Implementation_of_Intelligent_Robotics/computer_vision/build/my_robot_description/build/lib/my_robot_description
+[0.735s] running install
+[0.738s] running install_lib
+[0.748s] running install_data
+[0.748s] copying resource/my_robot_description -> /home/chrisrvt/projects/Implementation_of_Intelligent_Robotics/computer_vision/install/my_robot_description/share/ament_index/resource_index/packages
+[0.748s] copying package.xml -> /home/chrisrvt/projects/Implementation_of_Intelligent_Robotics/computer_vision/install/my_robot_description/share/my_robot_description
+[0.748s] running install_egg_info
+[0.758s] removing '/home/chrisrvt/projects/Implementation_of_Intelligent_Robotics/computer_vision/install/my_robot_description/lib/python3.10/site-packages/my_robot_description-0.0.0-py3.10.egg-info' (and everything under it)
+[0.758s] Copying ../../build/my_robot_description/my_robot_description.egg-info to /home/chrisrvt/projects/Implementation_of_Intelligent_Robotics/computer_vision/install/my_robot_description/lib/python3.10/site-packages/my_robot_description-0.0.0-py3.10.egg-info
+[0.758s] running install_scripts
+[0.845s] writing list of installed files to '/home/chrisrvt/projects/Implementation_of_Intelligent_Robotics/computer_vision/build/my_robot_description/install.log'
+[0.860s] Invoked command in '/home/chrisrvt/projects/Implementation_of_Intelligent_Robotics/computer_vision/src/my_robot_description' returned '0': PS1=(intelligent_robotics__venv) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/home/chrisrvt/projects/Implementation_of_Intelligent_Robotics/computer_vision/build/my_robot_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/chrisrvt/projects/Implementation_of_Intelligent_Robotics/computer_vision/install/my_robot_description/lib/python3.10/site-packages:${PYTHONPATH} VIRTUAL_ENV_PROMPT=(intelligent_robotics__venv) /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_robot_description build --build-base /home/chrisrvt/projects/Implementation_of_Intelligent_Robotics/computer_vision/build/my_robot_description/build install --record /home/chrisrvt/projects/Implementation_of_Intelligent_Robotics/computer_vision/build/my_robot_description/install.log --single-version-externally-managed install_data
